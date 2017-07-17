@@ -1,5 +1,4 @@
 # These are the reqs to build docs and run tests.
 sphinx
 django-nose
-Django
 fabric3
